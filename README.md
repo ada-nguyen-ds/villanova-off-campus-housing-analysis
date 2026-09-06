@@ -59,6 +59,11 @@ The sample supported an estimated **357 rental units** across the sampling frame
 - In the descriptive Tableau view, Bryn Mawr combined the lowest average rent per person with the largest observed supply.
 - The dashboard estimated the largest private-versus-shared monthly savings in Wayne.
 
+## View the project report
+
+- [View the portfolio PDF](report/Khanh_Nguyen_Villanova_Housing_Sampling_Analysis.pdf)
+- [Review the complete R analysis](R/housing_sampling_analysis.R)
+
 ## Interactive dashboard
 
 [Open the Student Housing Market Near Villanova University dashboard on Tableau Public](https://public.tableau.com/app/profile/khanh.nguyen5891/viz/StudentHousingMarketNearVillanovaUni/StudentHousing)
