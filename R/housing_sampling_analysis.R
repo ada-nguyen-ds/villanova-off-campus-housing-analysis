@@ -11,11 +11,7 @@ set.seed(123)
 # 1. Read data
 # ---------------------------------------------------------
 
-setwd("~/Library/Mobile Documents/com~apple~CloudDocs/Meo Shared Folder/Sampling Methods/Project/Housing")
-
-dat <- read.csv("Housing_data_V.csv")
-
-# ---------------------------------------------------------
+dir.create("output", showWarnings = FALSE)\n\ndat <- read.csv(file.path("data", "housing_sample.csv"))\n\n# ---------------------------------------------------------
 # 2. Create new variables
 # ---------------------------------------------------------
 
